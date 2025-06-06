@@ -471,16 +471,15 @@ header .navbar ul li a:hover {
 
 /* skills section starts */
 .skills {
-  padding: 60px 20px;
-  background-color: #150050;
+  padding: 80px 0;
+  background-color: #2d0069;
   text-align: center;
-  color: white;
 }
 
 .skills .heading {
-  font-size: 2.5rem;
-  margin-bottom: 40px;
-  color: white;
+  font-size: 3rem;
+  margin-bottom: 50px;
+  color: #fff;
 }
 
 .skills .heading span {
@@ -489,40 +488,42 @@ header .navbar ul li a:hover {
 
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 25px;
-  max-width: 1000px;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 35px;
+  max-width: 1100px;
   margin: auto;
+  padding: 0 20px;
 }
 
 .skill-item {
-  background-color: #1a1a40;
-  border-radius: 12px;
-  padding: 20px 10px;
+  background-color: #0d0b1f;
+  border-radius: 20px;
+  padding: 30px 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: flex;
   flex-direction: column;
   align-items: center;
-  box-shadow: 0 0 10px rgba(0, 255, 255, 0.1);
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.08);
 }
 
 .skill-item:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.3);
 }
 
 .skill-item img {
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
   object-fit: contain;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 .skill-item span {
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: #f1f1f1;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
 }
+
 
 .skills {
   min-height: 90vh;
