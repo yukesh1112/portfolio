@@ -23,7 +23,7 @@ Hi, I'm [Your Name], a passionate [Your Profession] with experience in [technolo
 ## How to View
 
 You can view the live portfolio here:  
-[https://yukesh1112.github.io](https://yukesh1112/personal-portfolio)  
+[https://yukesh1112.github.io](https://yukesh1112.github.io/portfolio/)  
 
 Or clone this repository and open `index.html` in your browser.
 
