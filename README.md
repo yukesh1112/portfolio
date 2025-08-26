@@ -18,7 +18,7 @@ Hi, I'm [Your Name], a passionate [Your Profession] with experience in [technolo
 - HTML5
 - CSS3
 - JavaScript
-- [Add any frameworks or libraries you used]
+- jquery
 
 ## How to View
 
