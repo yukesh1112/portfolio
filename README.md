@@ -1,10 +1,10 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a [Your Profession/Role, e.g., Web Developer].
+Welcome to my personal portfolio website! This site showcases my skills, projects, and eperiance 
 
 ## About Me
 
-Hi, I'm [Your Name], a passionate [Your Profession] with experience in [technologies or fields]. I enjoy building clean, responsive, and user-friendly websites.
+Hi, I'm Yukesh, a passionate  with  building clean, responsive, and user-friendly websites.
 
 ## Features
 
